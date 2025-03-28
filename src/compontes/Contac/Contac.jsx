@@ -1,5 +1,5 @@
 import React from 'react'
-import './contac.css'
+import './Contac.css'
 function Contac() {
   const [result, setResult] = React.useState("");
 
