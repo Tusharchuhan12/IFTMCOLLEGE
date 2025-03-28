@@ -1,0 +1,24 @@
+.h1{
+    font-size: 35px;
+    background-color: rgba(63, 69, 69, 0.331);
+    height: 50px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.cource{
+    font-size: 1.25rem;
+    
+}
+@media (max-width:768px) {
+    .h1 {
+            font-size: 27px;
+            background-color: rgba(63, 69, 69, 0.331);
+            height: 40px;
+            width: 300px;
+            margin-bottom: 20px;
+        }
+                .cource {
+                    font-size: 1.10rem;
+        
+                }
+}

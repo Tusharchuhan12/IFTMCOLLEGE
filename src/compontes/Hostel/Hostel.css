@@ -1,0 +1,13 @@
+/* src/App.css */
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.hostel-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

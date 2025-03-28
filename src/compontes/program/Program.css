@@ -1,0 +1,57 @@
+.Programs{
+    
+    width: 90%;
+    margin: auto;
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.progarm img{
+    margin-top: 20px;
+ width: 100%;
+ border-radius: 10px;
+ 
+ 
+}
+.progarm{
+    flex-basis: 31%;
+    position: relative;
+    
+}
+.caption{
+    border-radius: 10px;
+    margin-top: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0,15,152,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: aliceblue;
+    cursor: pointer;
+    opacity: 0;
+}
+.caption img{
+    width: 60px;
+    margin-bottom: 10px;
+   
+    
+}
+.progarm :hover {
+    opacity: 1;
+
+}
+@media  (max-width:768px) {
+    .Programs{
+        flex-direction: column;
+    }
+        .caption img {
+            width: 50px;
+            margin-bottom: 7px;}
+}
