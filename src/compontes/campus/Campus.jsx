@@ -12,7 +12,7 @@ function Campus() {
         <img src="Campus1.jpeg" alt="" />
         <img src="Campus2.jpeg" alt="" />
         <img src="Campus3.jpeg" alt="" />
-        <img src="Campus4.jpeg" alt="" />
+        
           </div>
         <button className='btn dark' onClick={() => Setsee((prev) => !prev)}> {See ? "Hide IMG" :"See More Here"} 
          
