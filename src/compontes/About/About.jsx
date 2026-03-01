@@ -13,7 +13,7 @@ function About({ setplay }) {
       }} />
     </div>
     <div className='about-right'>
-        <h2>ABOUT UNIVERSITY</h2>
+        <h2>ABOUT UNIVERSITYy</h2>
           <h1>IFTM University</h1>
           <p>• Offers 8277 number of Diploma, Undergraduate, Postgraduate and Doctoral Programmes in Engineering, Business Management, Pharmacy, Biotechnology, Microbiology, Arts, Sciences, Commerce, Hotel Management & Catering Technology, Law, Education, Journalism & Mass Communication, Agricultural Science & Engineering and Computer Science & Applications, etc..</p>
           <p>• Besides academics, sports and cultural activities, the University contribute towards the holistic development of students..</p>
